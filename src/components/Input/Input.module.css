@@ -1,0 +1,157 @@
+.input {
+    width: 150px;
+    height: 50px;
+}
+
+.btnInput {
+    margin-top: 20px;
+    width: 100px;
+    height: 40px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 393px;
+    margin: 0 auto;
+}
+
+.containerRemove {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 393px;
+    margin: 200px auto 0;
+}
+
+.troleb {
+    width: 50px;
+}
+
+.name {
+    font-size: 20px;
+    text-align: center;
+    font-weight: 400;
+}
+
+.containerMoneuStyle {
+    max-width: 393px;
+    margin: 0 auto;
+}
+
+.moneyStyle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    border-radius: 7px;
+    background-color: #202020;
+}
+
+.resultMoney {
+    padding-bottom: 8px;
+    font-size: 20px;
+}
+
+.timeStyle {
+    color: #828282;
+}
+
+.containerCard {
+    max-width: 393px;
+    margin: 20px auto 0;
+}
+
+.flexContainerCard {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px 20px;
+    height: 150px;
+    border-radius: 7px;
+    background-color: #202020;
+}
+
+.cardState {
+    display: flex;
+    justify-content: space-between;
+}
+
+.status {
+    color: #828282;
+}
+
+.rightCard {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.rightCardText {
+    color: #828282;
+}
+
+.containerNumber {
+    display: flex;
+    align-items: center;
+}
+
+.masterCard {
+    width: 40px;
+}
+
+.randomContainer {
+    max-width: 393px;
+    margin: 20px auto 0;
+}
+
+.randomContainerFlex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    border-radius: 7px;
+    background-color: #202020;
+}
+
+.randomText {
+    color: #828282;
+}
+
+.kategoriContainer {
+    max-width: 393px;
+    margin: 20px auto 0;
+}
+
+.kategoryFlex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    border-radius: 7px;
+    background-color: #202020;
+}
+
+.kategoryText {
+    color: #828282;
+}
+
+.helpContainer {
+    max-width: 393px;
+    margin: 20px auto 200px;
+}
+
+.helpContainerFlex {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    border-radius: 7px;
+    background-color: #202020;  
+}
+
+.helpSvg {
+    margin-right: 20px;
+    width: 45px;
+}
