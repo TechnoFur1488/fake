@@ -22,7 +22,7 @@ const Input = () => {
                 <img className={s.troleb} src="/images/Group 37.svg" alt="" />
                 <img src="/images/ios_share_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.svg" alt="" />
             </div>
-            <h1 className={s.name}>CITY CARD SYSTEM, LUTSK</h1>
+            <h1 className={s.name} >CITY CARD SYSTEM, LUTSK</h1>
             <div className={s.containerMoneuStyle}>
                 <div className={s.moneyStyle}>
                     <span className={s.resultMoney}>-{result} UAH</span>
